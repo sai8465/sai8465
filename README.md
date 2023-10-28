@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">👨‍💻 DevOps Engineer</h1>
 
 <p align="center">
@@ -7,10 +6,10 @@
 
 ## About Me
 
-- 👋 Hi, I'm [Your Name](https://yourwebsite.com).
-- 🎓 Graduated from SRKR Engineering College - Andhra University.
+- 👋 Hi, I'm Saikrishna K
+- 🎓 Graduated from Indira Institute of Technology & Seinece - JNTU KAKINADA.
 - 💼 Currently working at Zelarsoft Pvt Ltd.
-- 🔧 Proficient in Cloud Infrastructure Management, Automation, and CICD Lifecycle.
+- 🔧 Proficient in Kubernetes, Automation, and CICD Lifecycle.
 - 🌱 Always learning and improving in the DevOps world.
 
 ## Tech Stack
@@ -26,18 +25,18 @@
 
 ## Connect with Me
 
-- 🌐 [My Website](https://yourwebsite.com)
-- 💡 [My DevOps Blog](https://yourblog.com)
-- 📧 Email: your.email@example.com
-- 📲 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- 🌐 [My Website](https://sai8465.github.io)
+- 💡 [My DevOps Blog](https://medium.com/@saikrishnajaya1997)
+- 📧 Email: saikrishnajaya1997@gmail.com
+- 📲 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/sai-krishna-8b2948219)
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai8465&show_icons=true)
 
 ## GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sai8465)
 
 <!--
 **sai8465/sai8465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
