@@ -75,7 +75,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sai8465)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai8465&show_icons=true&locale=en" alt="sai8465" /></p>
 
 
 <!--
