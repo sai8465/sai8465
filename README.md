@@ -33,12 +33,12 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
-#- ☁️ AWS
-#- 🐙 ArgoCD
-#- 🐳 Docker
-#- ☸️ Kubernetes
-#- ⎈ Helm
-#- ☁️ Azure DevOps
+# - ☁️ AWS
+# - 🐙 ArgoCD
+# - 🐳 Docker
+# - ☸️ Kubernetes
+# - ⎈ Helm
+# - ☁️ Azure DevOps
 
 ## Connect with Me
 
