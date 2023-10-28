@@ -47,7 +47,7 @@
 - 📧 Email: saikrishnajaya1997@gmail.com
 - 📲 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sai-krishna-8b2948219)
 
-##📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai8465&show_icons=true)
 
