@@ -12,7 +12,7 @@
 - 🔧 Proficient in Kubernetes, Automation, and CICD Lifecycle.
 - 🌱 Always learning and improving in the DevOps world.
 
-## Tech Stack
+## 💻 Tech Stack
 
 🛠️ Here are some of the tools and technologies I work with:
 
@@ -32,12 +32,13 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-- ☁️ AWS
-- 🐙 ArgoCD
-- 🐳 Docker
-- ☸️ Kubernetes
-- ⎈ Helm
-- ☁️ Azure DevOps
+
+#- ☁️ AWS
+#- 🐙 ArgoCD
+#- 🐳 Docker
+#- ☸️ Kubernetes
+#- ⎈ Helm
+#- ☁️ Azure DevOps
 
 ## Connect with Me
 
@@ -54,6 +55,12 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sai8465)
 
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=Saikrishna&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Saikrishna&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <!--
 **sai8465/sai8465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
