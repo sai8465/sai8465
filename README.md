@@ -47,7 +47,7 @@
 - 📧 Email: saikrishnajaya1997@gmail.com
 - 📲 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sai-krishna-8b2948219)
 
-## GitHub Stats
+##📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sai8465&show_icons=true)
 
@@ -57,10 +57,6 @@
 
 
 
-
-![](https://github-readme-stats.vercel.app/api?username=Saikrishna&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saikrishna&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saikrishna&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <!--
 **sai8465/sai8465** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
