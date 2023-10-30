@@ -1,8 +1,9 @@
 <h1 align="center">👨‍💻 DevOps Engineer</h1>
 
-<p align="center">
-  🏅 Certified Kubernetes Administator Engineer 
+<p align="center" style="font-size: 24px;">
+  🏅 Certified Kubernetes Administator
 </p>
+
 
 ## About Me
 
