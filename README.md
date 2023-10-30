@@ -77,7 +77,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sai8465)
 
 
-[![Snk](https://raw.githubusercontent.com/sai8465/sai8465/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
 
 
 
