@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 DevOps Engineer</h1>
 
-<p align="center" style="font-size: 50px;">
-  🏅 Certified Kubernetes Administator
+<p align="center" style="font-size: 100px;">
+  🏅 Certified Kubernetes Administrator
 </p>
 
 
