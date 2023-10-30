@@ -1,4 +1,6 @@
+<!--
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10&color=40C807BB&background=1EABFF00&random=false&width=470&lines=Hi;i'm+Saikrishna+K;DevOps+Engineer" alt="Typing SVG" /></a>
+-->
 
 
 <h1 align="center">👨‍💻 DevOps Engineer</h1>
