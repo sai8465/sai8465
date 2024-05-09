@@ -15,7 +15,7 @@ Link- https://readme-typing-svg.demolab.com/demo/
 
 - 👋 Hi, I'm Saikrishna K
 - 🎓 Graduated from Indira Institute of Technology & Science - JNTU KAKINADA.
-- 💼 Currently working at Zelarsoft Pvt Ltd.
+- 💼 Currently working at Tanla platform Ltd.
 - 🔧 Proficient in Kubernetes, Automation, and CICD Lifecycle.
 - 🌱 Always learning and improving in the DevOps world.
 
