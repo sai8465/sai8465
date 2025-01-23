@@ -72,7 +72,7 @@ Link- https://readme-typing-svg.demolab.com/demo/
 - 🌐 [My Website](https://sai8465.github.io)
 - 💡 [My DevOps Blog](https://medium.com/@saikrishnajaya1997)
 - 📧 Email: saikrishnajaya1997@gmail.com
-- 📲 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sai-krishna-8b2948219)
+- 📲 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sai-krishna-k-8b2948219)
 
 ## 📊 GitHub Stats
 
